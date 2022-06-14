@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Stylish&display=swap');
+*{
+    margin: 0;
+    text-align: center;
+}
+header {
+    background-color: #EAF6F6;
+}
+h1{
+    margin-top: 3rem;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 7rem;
+    color: #66BFBF;
+    line-height: 2;
+    font-family: 'Stylish', sans-serif;
+}
+h2{
+    text-align: center;
+    font-weight: bolder;
+    color: #66BFBF;
+    line-height: 2;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+}
+.skills h2{
+    color: black;
+    text-align: center;
+    font-weight: bolder;
+    line-height: 2;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+}
+h3{
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 1rem;
+    line-height: 2;
+    font-size: 2rem;
+    text-align: center;
+}
+
+.top-cloud{
+    position: relative;
+    top: 3rem;
+    left: 25rem;
+}
+.bottom-cloud{
+    position: relative;
+    bottom: 16rem;
+    right: 5rem;
+}
+.mountain{
+    position: relative;
+    right: 2.5rem;
+}
+p{
+    line-height: 2;
+    text-align: justify;
+    padding: 1rem;
+    margin: 1rem 28rem 0 28rem;
+    font-weight: bolder;
+    font-family: 'Stylish', sans-serif;
+
+}
+.photo{
+    border-radius: 100%;
+    height: 10rem;
+    width: 10rem;
+    margin-top: 2rem;
+}
+.intro{
+    background-color: #66BFBF;
+    color: black;
+}
+.skills{
+    background-color: #66BFBF;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 1.2rem;
+}
+a:hover{
+    color: white;
+}
+.contact{
+    background-color: #66BFBF;
+}
+.footer{
+    background-color: darkgrey;
+    text-align: center;
+}
+.copyright{
+    text-align: center;
+    font-size: 1rem;
+}
+.socials{
+    padding: 1rem;
+    position: relative;
+    top: 1.3rem;
+}
+.hello{
+    color: black;
+}
